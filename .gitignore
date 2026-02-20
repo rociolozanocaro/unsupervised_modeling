@@ -1,0 +1,9 @@
+#VSCode 
+.vscode
+#VirtualEnv
+.venv/venv/
+#Python
+__pycache__/
+*.pyc
+#Dataset raw
+data/data_raw/
