@@ -136,6 +136,7 @@ This indicates that dimensionality reduction did not significantly reduce perfor
 The elbow method was used to determine the optimal number of clusters in PCA (8.1.).
 
 ![Elbow Method ](images/elbow_method.png)
+
 It shows that bewtween 4-6 clusters it would be okay.
 
 We made figures of those clusters and it showed partial separation between edible and poisonous mushrooms. Only one cluster has it mixed.
