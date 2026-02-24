@@ -91,6 +91,7 @@ We analyzed the relationship between the target variable (class) and each featur
 ![Stackedbar image](images/stackedbar_class_odor_bivariable.png)
 
 Some categories perfectly separate edible and poisonous mushrooms.
+
 ![Crosstab](images/crosstab_class_odor_bivariable.png)
 
 Here we can see that the variable 'odor' is helpful to predict if the mushroom is 'edible' or 'poisonous'. The categories in this variable are very differentiated. Only one categor 'n' (none, pink in the figure above) in 'odor' is a little bit mixed between both classes.
