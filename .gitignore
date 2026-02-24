@@ -1,0 +1,9 @@
+#VSCode 
+.vscode
+#VirtualEnv
+.venv
+#Python
+__pycache__/
+*.pyc
+#Data raw
+data/data_raw/
