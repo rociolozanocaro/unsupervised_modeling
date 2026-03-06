@@ -36,7 +36,7 @@ The goal of this project is using an unsupervised model like PCA and clustering 
 
 1. Clone the repository
 ```text 
-git clone https://github.com/Bootcamp-Data-Analyst/p9-unsupervised-rocio
+git clone https://github.com/rociolozanocaro/unsupervised_modeling
 ```
 
 2. Create and activate virtual environment
@@ -64,7 +64,7 @@ The dataset was obtained from Kaggle [Mushroom Dataset](https://www.kaggle.com/u
 
 It only contains categorical variables describing physical characteristics of mushrooms and a target variable.
 
-It is 'class' which cointains if it is 'edible' or 'poisonous'.
+It is 'class' which contains if it is 'edible' or 'poisonous'.
 
 # 6. DATA CLEANING
 
