@@ -1,6 +1,6 @@
 # Clasificación de Setas & Aprendizaje No Supervisado
 
-🇬🇧 [English](README_EN.md) | 🇪🇸 [Español](README_ES.md)
+[English](README_EN.md) | [Español](README_ES.md)
 
 # 1. OBJETIVO
 El objetivo de este proyecto es aplicar un modelo no supervisado mediante PCA y técnicas de clustering a un dataset de setas, y comparar el efecto que tiene la reducción de dimensionalidad sobre un modelo supervisado como RandomForest.
