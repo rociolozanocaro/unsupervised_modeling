@@ -36,7 +36,7 @@ The goal of this project is using an unsupervised model like PCA and clustering 
 
 1. Clone the repository
 ```text 
-git clone https://github.com/rociolozanocaro/unsupervised_modeling
+git clone https://github.com/rociolozanocaro/Unsupervised_Modeling
 ```
 
 2. Create and activate virtual environment
