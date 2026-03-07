@@ -1,6 +1,6 @@
 # Mushroom Classification & Unsupervised Learning
 
-[English](README_EN.md) | [Español](README_ES.md)
+[English](README.md) | [Español](README_ES.md)
 
 
 # 1. OBJECTIVE
