@@ -1,5 +1,8 @@
 # Mushroom Classification & Unsupervised Learning
 
+🇬🇧 [English](README_EN.md) | 🇪🇸 [Español](README_ES.md)
+
+
 # 1. OBJECTIVE
 The goal of this project is using an unsupervised model like PCA and clustering techniques in a Mushroom dataset and comparing the effect the dimensionality reduction has on a supervised model like RandomForest.
 
